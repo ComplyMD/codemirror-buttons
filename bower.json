@@ -14,6 +14,6 @@
     ],
     "license": "BSD",
     "dependencies": {
-        "CodeMirror": "*"
+        "codemirror": "https://github.com/ComplyMD/CodeMirror#5.28.1"
     }
 }

@@ -1,8 +1,13 @@
 {
   "name": "codemirror-buttons",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "CodeMirror buttons addon ========================",
-  "main": "index.js",
+  "main": "buttons.js",
+  "files": [
+    "button.css",
+    "buttons.js",
+    "screenshot.png"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +15,13 @@
     "type": "git",
     "url": "git+https://github.com/ComplyMD/codemirror-buttons.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alexander Makarov <sam@rmcreative.ru>",
+  "keywords": [
+    "codemirror",
+    "buttons",
+    "ui"
+  ],
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/ComplyMD/codemirror-buttons/issues"
   },
